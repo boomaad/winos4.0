@@ -1,4 +1,5 @@
 更多工具或咨询@danmanba
+免杀360，火绒，windowsdefender等杀毒
 选择exe文件点击执行生成config.ini  shellcode文件，替换后点击Microsoft.exe执行白加黑上线
 如无法生成原生位置无关shellcode，需要专用exe转shellcode工具才可正常执行
 
